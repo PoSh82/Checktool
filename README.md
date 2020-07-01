@@ -6,8 +6,8 @@ You can also check the email address here https://www.checktool.ch
 
 With this PowerShell script you'll be able to automatically lookup for email addresses from a list which are stored to a csv file whith the SHA256 hash of the address.
 
-The script combines the URL and the SHA256 hash of the email address and post the request. Then it stores the information in a dump file and then it is looking for the specific text, if the email address is in the databse.
-It will also show the date and the specific website where this email was used.
+The script combines the URL and the SHA256 hash of the email address and post the request. Then it stores the information in a dump file and then it is looking for the specific text, if the email address is in the database.
+It will also show the date and the specific website where this email address has been used.
 
 Use the file: get_all_smtp_addresses.ps1
 to export all email addresses from a specific distribution list. Define the distribution list name in the row 13.
