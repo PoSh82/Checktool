@@ -28,7 +28,7 @@ Please note: The header of the file hashes.csv needs to be:
 "Address","Hash"
 
 Use this file: melani_checktool.ps1
-to go through all rows and wait until the scipt has finished its work.
+to go through all rows and wait until the script has finished its work.
 
 After the script is done, you'll get a csv file with the name result.csv with all information inside.
 If there is no result.csv file after the script has finished its work, then no addresses have been found in the database.
